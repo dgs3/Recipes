@@ -15,6 +15,7 @@ Each recipe should be human and machine readable.  We therefore have a strict fo
 
     * <QUANTITY> of <INGREDIENT>
     * <QUANTITY> of <INGREDIENT>
+    * <QUANTITY> of <INGREDIENT> (<COMMENTS>)
     * ...
 
 ## Directions
