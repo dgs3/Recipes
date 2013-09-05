@@ -11,7 +11,7 @@ Gluten/Dairy/Guilt free "paleo" dessert.
     * 1 teaspoon of cinnamon
     * 1 pinch of nutmeg
     * 8 ounces of dark chocolate chips
-    * 1 pinch of raw unsweetened coconut flakes
+    * 1 pinch of raw unsweetened coconut flakes (OPTIONAL)
 
 ## Directions
 
