@@ -11,12 +11,13 @@ Gluten/Dairy/Guilt free "paleo" dessert.
     * 1 teaspoon of cinnamon
     * 1 pinch of nutmeg
     * 8 ounces of dark chocolate chips
+    * 1 pinch of raw unsweetened coconut flakes
 
 ## Directions
 
-    * Place all ingredients (except chocolate chips) in a blender and blend for 1 minute.
+    * Place water, raw pecans, pitted dates, raw agave nectar, vanilla extract, cinnamon and nutmeg in a blender.  Blend for 1 minute or until desired texture.
     * Refrigerate for 1 hour
-    * Mix in chocolate chips
+    * Mix in dark chocolate chips
     * Place in freezer for 2 hours
     * _Optional_: Use raw unsweetened coconut flakes as sprinkles
     * Enjoy!
