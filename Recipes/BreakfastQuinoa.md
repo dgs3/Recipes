@@ -19,6 +19,6 @@ Gluten free alternative to cereal/granola/oatmeal.
     * Boil water
     * Add quinoa and cook until quinoa is soft
     * Remove from pot and add coconut butter.  Mix thoroughly until coconut butter melts
-    * Add maple syrup, cinnamon, coconut flakes, almonds sunflowerseeds and dates.
+    * Add maple syrup, cinnamon, unsweetened raw coconut flakes, whole, raw almonds, sunflower seeds and dates.
     * Refrigerate
-    * Serve chilled with milk
+    * Serve chilled with a milk of your choice (suggested vanilla soy milk)
