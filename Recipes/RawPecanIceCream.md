@@ -3,13 +3,13 @@ Gluten/Dairy/Guilt free "paleo" dessert.
 
 ## Ingredients
 
-    * 2.5 cups water
-    * 2 cups raw pecans
-    * 1 cup pitted dates
-    * 2 teaspoons raw agave nectar
+    * 2.5 cups of water
+    * 2 cups of raw pecans
+    * 1 cup of pitted dates
+    * 2 teaspoons of raw agave nectar
     * 1.5 teaspoons of vanilla extract
-    * 1 teaspoon cinnamon
-    * 1 pinch nutmeg
+    * 1 teaspoon of cinnamon
+    * 1 pinch of nutmeg
     * 8 ounces of dark chocolate chips
 
 ## Directions
