@@ -1,5 +1,5 @@
 # Sausage, Kale and Quinoa Saute
-A healthy union of sausage, kale and quinoa.
+A healthy union of sausage, kale and quinoa.  High in protien due to the quinoa and sausage, eat after a workout (or just whenever).
 
 ## Ingredients
     * 5 cups of chicken stock

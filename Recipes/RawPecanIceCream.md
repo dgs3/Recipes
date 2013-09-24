@@ -1,5 +1,5 @@
 # Raw Pecan Ice Cream
-Gluten/Dairy/Guilt free "paleo" dessert.
+Gluten/Dairy/Guilt free "paleo" dessert.  Tastes a little bit like cookie dough.  Not as creamy as real icecream, but just as delicious.
 
 ## Ingredients
 
